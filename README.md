@@ -50,8 +50,8 @@ Its simple, just run the following bash command:
 
 ```bash
 # using npm
-npm run ios
+npm run test
 
 # OR using Yarn
-yarn ios
+yarn test
 ```
